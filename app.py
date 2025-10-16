@@ -288,8 +288,8 @@ def ask_ai(query, results_df, df):
 # -----------------------------
 # Chat Interface
 # -----------------------------
-st.title("🚀 Starscape AI Database Analyst")
-st.caption("AI-Powered Ship Database • Details on Request")
+st.title("🚀 Starscape AI Database Analyst(BETA)")
+st.caption("AI-Powered Ship Database • Under-Development")
 
 if "messages" not in st.session_state:
     st.session_state.messages = [
