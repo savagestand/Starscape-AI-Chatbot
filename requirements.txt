@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+sentence-transformers
+python-dotenv
+requests
