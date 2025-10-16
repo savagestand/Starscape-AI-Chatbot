@@ -1,0 +1,65 @@
+SHIP_NAME,FACTION,TIER,SHIP_SIZE,Damage_Per_Second,Shield_Points,Hull_Points,Energy_Capacity,Speed,Acceleration,Agility,Turret_Slots,Subsystems_&_Cargo_Slots,WEAPON_RIGS,DEFENSE_RIGS,ENGINE_RIGS,REACTOR_RIGS,OBTAINED_BY
+Falcon,Neutral,1,Small,150,150,250,110,445,185,112,2F,1S,0,0,2,1,2000 or Crafted in Shipyard
+Hybrid Paragon,Drones,10,Small,169.9,200,220,120,470,270,135,2F,2S,1,1,2,1,Crafted with Blueprint
+Tetra,Lycentian Federation,1,Small,160.1,250,200,120,390,140,101,2F,1S,1,1,1,0,Crafted with Blueprint
+Parrot,Kavani Mandate,1,Small,156,250,200,110,420,200,120,2F,2S,0,1,1,2,Crafted with Blueprint
+Candiru,Foralkan Empire,2,Small,240,150,150,105,440,190,123,3F,2S,2,0,2,0,Crafted with Blueprint
+Hybrid Polaris,Drones,10,Small,210,200,275,100,455,250,127,2F,2S,1,2,1,1,Crafted with Blueprint
+Mackerel,Foralkan Empire,1,Small,220.1,150,150,95,430,170,142,2F,1S,1,0,2,0,Crafted with Blueprint
+Zenith,Neutral,1,Small,180,250,250,80,410,200,112,2F,1S,0,1,1,1,1500 or Crafted in Shipyard
+Paragon,Neutral,2,Small,160.1,200,250,120,455,225,127,2F,2S,1,0,2,1,Crafted with Blueprint
+Triazo,Lycentian Federation,2,Small,180,250,225,120,410,160,108,2F,2S,1,2,1,0,Crafted with Blueprint
+Polaris,Neutral,2,Small,200,275,250,90,440,205,120,2F,2S,1,1,1,1,Crafted with Blueprint
+Macaw,Kavani Mandate,2,Small,180,300,200,120,420,200,120,2F,3S,1,1,1,2,Crafted with Blueprint
+Hornbill,Kavani Mandate,2,Small,192,400,300,110,340,190,105,3F,3S,1,1,1,2,Crafted with Blueprint
+Luminar,Neutral,2,Small,240,500,200,110,320,135,97,3F,2S,1,2,0,1,Crafted with Blueprint
+Aurora,Neutral,1,Small,220.1,450,200,100,320,130,97,3F,1S,1,1,0,1,1600 or Crafted in Shipyard
+Luster,Lycentian Federation,1,Small,200.2,300,200,110,300,120,90,2F,1S,0,2,1,0,Crafted with Blueprint
+Toucan,Kavani Mandate,1,Small,180,400,250,105,320,180,105,2F,2S,1,0,1,2,Crafted with Blueprint
+Lucent,Lycentian Federation,2,Small,220.1,300,250,115,310,130,93,2F,2S,0,2,1,1,Crafted with Blueprint
+Sabre,Neutral,1,Small,260.2,150,600,75,300,100,86,4F,2S,2,1,0,0,2200 or Crafted in Shipyard
+Stratos,Neutral,1,Small,120,200,200,100,260,120,112,2F,1S,0,1,1,1,Starter Ship
+Hybrid Luminar,Drones,1,Small,259.9,450,200,110,330,160,105,3F,2S,1,2,1,1,Crafted with Blueprint
+Piranha,Foralkan Empire,1,Small,260,100,350,90,320,140,112,2F,1S,2,0,1,0,Crafted with Blueprint
+Hybrid Claymore,Drones,1,Small,300,165,760,90,320,130,97,4F,2S,2,2,1,0,Crafted with Blueprint
+Claymore,Neutral,2,Small,280.1,150,650,80,310,120,90,4F,2S,2,2,0,0,Crafted with Blueprint
+Thresher,Foralkan Empire,2,Small,280.1,125,350,90,330,160,116,4F,2S,2,0,2,0,Crafted with Blueprint
+Radix,Neutral,1,Medium,193,2500,2400,400,230,80,63,4S 2P,1S,0,0,2,1,Crafted in Shipyard
+Knifejaw,Foralkan Empire,1,Medium,193,1000,4500,400,210,80,56,4S 2P,1S,2,2,1,0,Crafted with Blueprint
+Infinity,Neutral,1,Medium,193,1500,3200,360,220,80,67,4S 2P,1S,1,0,1,1,Crafted in Shipyard
+Liberty,Lycentian Federation,1,Medium,193,4600,1500,380,200,50,52,4S 2P,1S,1,2,0,1,Crafted with Blueprint
+Chevron,Neutral,1,Medium,193,900,5200,440,210,40,60,4S 2P,1S,1,2,1,0,Crafted in Shipyard
+Edict,Kavani Mandate,1,Medium,193,1500,3500,420,220,100,60,4S 2P,2S,1,0,1,2,Crafted with Blueprint
+Adamant,Neutral,1,Medium,277,2000,4200,490,170,70,52,6S 2P,1S,1,0,1,2,Crafted in Shipyard
+Virtue,Lycentian Federation,1,Medium,302,7200,2000,520,130,46,37,6S 4P,1S,1,2,1,1,Crafted with Blueprint
+Barracuda,Foralkan Empire,1,Medium,302,2500,6300,550,160,74,41,6S 4P,1S,2,1,1,1,Crafted with Blueprint
+Halo,Neutral,1,Medium,302,3000,4000,550,180,70,48,6S 4P,1S,0,0,2,1,Crafted in Shipyard
+Judicator,Kavani Mandate,1,Medium,302,2500,5500,580,170,80,45,6S 4P,2S,0,1,1,2,Crafted with Blueprint
+Phalanx,Neutral,1,Medium,302,1200,8200,610,160,36,33,6S 4P,1S,1,2,1,0,Crafted in Shipyard
+Astero,Trade Union,1,Medium,151,850,3300,350,160,32,41,3S 2P,1S 20C,0,2,0,0,Crafted with Blueprint
+Bison,Neutral,1,Small,37.5,100,700,100,310,170,75,3P,1S 9C,0,2,1,0,3500 or Crafted with Blueprint
+Mantle,Syndicate,1,Large,302,3600,7200,850,130,30,37,6S 4P,2S 36C,0,2,2,1,Crafted with Blueprint
+Hyrax,Neutral,1,Small,10,250,250,80,330,200,90,1P,1S 4C,0,0,1,0,800 or Crafted in Shipyard
+Shroud,Syndicate,1,Medium,218,1750,2400,480,170,40,52,4S 4P,1S 24C,0,1,2,1,Crafted with Blueprint
+Veil,Syndicate,1,Medium,121.5,1350,1500,400,210,40,56,2S 3P,1S 16C,0,1,1,1,Crafted with Blueprint
+Andromeda,Trade Union,1,Large,272,1200,7600,750,100,24,26,1M 3S 4P,2S 48C,1,2,1,0,Crafted with Blueprint
+Galaxy,Trade Union,1,Medium,218,1000,3800,450,120,28,37,4S 4P,1S 30C,1,2,0,0,Crafted with Blueprint
+Zubron,Neutral,1,Medium,134,1500,1800,400,200,50,60,2S 4P,1S 20C,2,0,1,0,Crafted in Shipyard
+Rhino,Neutral,1,Small,25,400,300,100,350,180,90,2P,1S 6C,0,1,2,0,2400 or Crafted with Blueprint
+Phantom,Syndicate,1,Medium,302,1850,2200,450,170,40,56,6S 4P,1S,0,1,2,1,Crafted with Blueprint
+Ozark,Neutral,1,Medium,151,660,2200,350,140,30,48,3S 2P,1S,0,1,1,1,Crafted in Shipyard
+Honey Badger,Neutral,2,Small,113.1,80,400,100,370,210,67,1M 2P,2S,2,1,0,0,Crafted with Blueprint
+Eos,Mining Guild,1,Medium,163.5,800,2400,450,150,34,45,3S 3P,1S 4C,0,1,0,1,Crafted with Blueprint
+Specter,Syndicate,1,Medium,176,1700,1500,320,200,60,56,3S 4P,1S,0,1,1,1,Crafted with Blueprint
+Marlin,Neutral,1,Small,84.8,75,180,90,420,200,120,1M 1P,1S,0,0,2,1,1000 or Crafted in Shipyard
+Mako,Neutral,2,Small,95.4,100,225,90,430,225,135,1M 1P,2S,0,1,2,1,Crafted with Blueprint
+Badger,Neutral,1,Small,102,50,260,100,350,190,67,1M 1P,1S,0,1,1,1,1400 or Crafted in Shipyard
+Koronis,Mining Guild,1,Small,106,200,300,120,330,220,135,1M 1P,2S 2C,1,0,2,2,Crafted with Blueprint
+Juno,Mining Guild,1,Large,465,1600,9000,750,110,24,22,1M 7S 6P,2S 16C,1,2,1,0,Crafted with Blueprint
+Vesta,Mining Guild,1,Medium,218,1250,4000,600,134,30,41,4S 4P,1S 8C,1,1,0,1,Crafted with Blueprint
+Kodiak,Neutral,1,Medium,205.5,850,4000,550,120,26,41,4S 3P,1S 2C,0,1,1,1,Crafted in Shipyard
+Yukon,Neutral,1,Large,470,1800,8400,900,100,20,22,10S 4P,1S 2C,0,2,1,1,Crafted in Shipyard
+Fargo,Neutral,1,Small,0,100,300,125,160,60,75,0,1,1,1,1,1,1500 or Crafted in Shipyard
+Yuma,Neutral,2,Small,0,100,550,150,160,60,75,0,1,1,1,1,1,Crafted in Shipyard
+Spectator,Neutral,100,Small,0,10000,10000,?,600,325,200,0,10,0,0,0,0,Being a Dev or Admin
+Spectator-X,Neutral,100,Small,13250,10000,10000,10000,600,600,150,1F 1P,10,0,0,0,0,Being a Dev or Admin
