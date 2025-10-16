@@ -362,6 +362,11 @@ with st.sidebar:
     
     st.markdown("---")
     
+    st.header("Donate me here to fund my work")
+    st.markdown("https://www.paypal.com/paypalme/savagestand")
+
+    st.markdown("---")
+    
     st.header("💡 Commands")
     st.markdown("""
     **View Data:**
